@@ -1,0 +1,39 @@
+h1,p{
+    margin: auto;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: #1e1421;
+    color: white;
+}
+
+.pic{
+    text-align: center;
+}
+
+#topic {
+    text-align: center;
+    font-size: 30px;
+}
+
+.button {
+    background-color: #045aaa;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+.button:hover {
+    background-color: #008CBA;
+    color: white;
+  }
